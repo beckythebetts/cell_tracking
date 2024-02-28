@@ -1,0 +1,25 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+
+/challenge_data/
+/training_data/
+/DecisionTree/amoeba/
+/DecisionTree/info_amoeba/
+/DecisionTree/jpegs/
+/DecisionTree/PREVIOUS/
+/DecisionTree/tiffs/
+/DecisionTree/view_tracks/
+/DecisionTree/yeast/
+/DecisionTree/Dicty8_1.gif
+/models/all/LiveCell_CTC_format_2D_GT_01_model_04.pth
+
+
+
+

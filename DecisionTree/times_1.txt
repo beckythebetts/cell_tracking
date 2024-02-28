@@ -1,0 +1,404 @@
+FRAME : 0
+Time to execute:  1.4126131534576416  s
+-----------
+FRAME : 1
+Time to execute:  1.299001693725586  s
+-----------
+FRAME : 2
+Time to execute:  1.384338617324829  s
+-----------
+FRAME : 3
+Time to execute:  1.3355567455291748  s
+-----------
+FRAME : 4
+Time to execute:  1.3553845882415771  s
+-----------
+FRAME : 5
+Time to execute:  1.718545913696289  s
+-----------
+FRAME : 6
+Time to execute:  1.7225990295410156  s
+-----------
+FRAME : 7
+Time to execute:  1.447178602218628  s
+-----------
+FRAME : 8
+Time to execute:  1.675560474395752  s
+-----------
+FRAME : 9
+Time to execute:  1.8161263465881348  s
+-----------
+FRAME : 10
+Time to execute:  1.6427936553955078  s
+-----------
+FRAME : 11
+Time to execute:  1.7001919746398926  s
+-----------
+FRAME : 12
+Time to execute:  1.7366774082183838  s
+-----------
+FRAME : 13
+Time to execute:  1.591404914855957  s
+-----------
+FRAME : 14
+Time to execute:  1.8639988899230957  s
+-----------
+FRAME : 15
+Time to execute:  1.8777222633361816  s
+-----------
+FRAME : 16
+Time to execute:  1.8092045783996582  s
+-----------
+FRAME : 17
+Time to execute:  1.999119520187378  s
+-----------
+FRAME : 18
+Time to execute:  2.0701537132263184  s
+-----------
+FRAME : 19
+Time to execute:  2.11262845993042  s
+-----------
+FRAME : 20
+Time to execute:  2.2272396087646484  s
+-----------
+FRAME : 21
+Time to execute:  2.249911308288574  s
+-----------
+FRAME : 22
+Time to execute:  1.881058931350708  s
+-----------
+FRAME : 23
+Time to execute:  2.039299964904785  s
+-----------
+FRAME : 24
+Time to execute:  1.9351263046264648  s
+-----------
+FRAME : 25
+Time to execute:  1.949066162109375  s
+-----------
+FRAME : 26
+Time to execute:  1.887716293334961  s
+-----------
+FRAME : 27
+Time to execute:  1.8990044593811035  s
+-----------
+FRAME : 28
+Time to execute:  2.1079654693603516  s
+-----------
+FRAME : 29
+Time to execute:  2.1602163314819336  s
+-----------
+FRAME : 30
+Time to execute:  2.1972362995147705  s
+-----------
+FRAME : 31
+Time to execute:  2.0732648372650146  s
+-----------
+FRAME : 32
+Time to execute:  1.9697787761688232  s
+-----------
+FRAME : 33
+Time to execute:  2.2220282554626465  s
+-----------
+FRAME : 34
+Time to execute:  1.930497646331787  s
+-----------
+FRAME : 35
+Time to execute:  2.552957534790039  s
+-----------
+FRAME : 36
+Time to execute:  2.108231782913208  s
+-----------
+FRAME : 37
+Time to execute:  2.119300603866577  s
+-----------
+FRAME : 38
+Time to execute:  1.9471464157104492  s
+-----------
+FRAME : 39
+Time to execute:  2.1540071964263916  s
+-----------
+FRAME : 40
+Time to execute:  2.112926959991455  s
+-----------
+FRAME : 41
+Time to execute:  2.2370569705963135  s
+-----------
+FRAME : 42
+Time to execute:  2.0959062576293945  s
+-----------
+FRAME : 43
+Time to execute:  2.137535572052002  s
+-----------
+FRAME : 44
+Time to execute:  2.0741126537323  s
+-----------
+FRAME : 45
+Time to execute:  2.3487093448638916  s
+-----------
+FRAME : 46
+Time to execute:  2.342644214630127  s
+-----------
+FRAME : 47
+Time to execute:  2.4049572944641113  s
+-----------
+FRAME : 48
+Time to execute:  2.206815481185913  s
+-----------
+FRAME : 49
+Time to execute:  2.222712993621826  s
+-----------
+FRAME : 50
+Time to execute:  2.5327818393707275  s
+-----------
+FRAME : 51
+Time to execute:  2.211829900741577  s
+-----------
+FRAME : 52
+Time to execute:  2.1305227279663086  s
+-----------
+FRAME : 53
+Time to execute:  2.2532804012298584  s
+-----------
+FRAME : 54
+Time to execute:  2.5869038105010986  s
+-----------
+FRAME : 55
+Time to execute:  2.2952563762664795  s
+-----------
+FRAME : 56
+Time to execute:  2.4830000400543213  s
+-----------
+FRAME : 57
+Time to execute:  2.23835825920105  s
+-----------
+FRAME : 58
+Time to execute:  2.386277914047241  s
+-----------
+FRAME : 59
+Time to execute:  2.2845475673675537  s
+-----------
+FRAME : 60
+Time to execute:  2.7167563438415527  s
+-----------
+FRAME : 61
+Time to execute:  2.7941105365753174  s
+-----------
+FRAME : 62
+Time to execute:  2.5133731365203857  s
+-----------
+FRAME : 63
+Time to execute:  2.5928120613098145  s
+-----------
+FRAME : 64
+Time to execute:  2.7085700035095215  s
+-----------
+FRAME : 65
+Time to execute:  2.8950002193450928  s
+-----------
+FRAME : 66
+Time to execute:  2.920997142791748  s
+-----------
+FRAME : 67
+Time to execute:  2.953700065612793  s
+-----------
+FRAME : 68
+Time to execute:  2.5972962379455566  s
+-----------
+FRAME : 69
+Time to execute:  2.770379066467285  s
+-----------
+FRAME : 70
+Time to execute:  2.676591634750366  s
+-----------
+FRAME : 71
+Time to execute:  2.67305326461792  s
+-----------
+FRAME : 72
+Time to execute:  2.6241297721862793  s
+-----------
+FRAME : 73
+Time to execute:  2.5321044921875  s
+-----------
+FRAME : 74
+Time to execute:  3.055636405944824  s
+-----------
+FRAME : 75
+Time to execute:  2.810032844543457  s
+-----------
+FRAME : 76
+Time to execute:  3.2494912147521973  s
+-----------
+FRAME : 77
+Time to execute:  2.61763334274292  s
+-----------
+FRAME : 78
+Time to execute:  3.0767784118652344  s
+-----------
+FRAME : 79
+Time to execute:  2.747133731842041  s
+-----------
+FRAME : 80
+Time to execute:  2.659231424331665  s
+-----------
+FRAME : 81
+Time to execute:  2.582123279571533  s
+-----------
+FRAME : 82
+Time to execute:  2.6433122158050537  s
+-----------
+FRAME : 83
+Time to execute:  2.7095041275024414  s
+-----------
+FRAME : 84
+Time to execute:  2.617396593093872  s
+-----------
+FRAME : 85
+Time to execute:  2.6724343299865723  s
+-----------
+FRAME : 86
+Time to execute:  2.950305223464966  s
+-----------
+FRAME : 87
+Time to execute:  2.722292184829712  s
+-----------
+FRAME : 88
+Time to execute:  2.5915703773498535  s
+-----------
+FRAME : 89
+Time to execute:  2.763004779815674  s
+-----------
+FRAME : 90
+Time to execute:  2.8186872005462646  s
+-----------
+FRAME : 91
+Time to execute:  3.105618953704834  s
+-----------
+FRAME : 92
+Time to execute:  2.7709977626800537  s
+-----------
+FRAME : 93
+Time to execute:  2.590291976928711  s
+-----------
+FRAME : 94
+Time to execute:  3.2210888862609863  s
+-----------
+FRAME : 95
+Time to execute:  3.0409109592437744  s
+-----------
+FRAME : 96
+Time to execute:  3.4580650329589844  s
+-----------
+FRAME : 97
+Time to execute:  3.190925359725952  s
+-----------
+FRAME : 98
+Time to execute:  3.1239075660705566  s
+-----------
+FRAME : 99
+Time to execute:  3.0159289836883545  s
+-----------
+FRAME : 100
+Time to execute:  3.1429994106292725  s
+-----------
+FRAME : 101
+Time to execute:  2.9912214279174805  s
+-----------
+FRAME : 102
+Time to execute:  3.064115524291992  s
+-----------
+FRAME : 103
+Time to execute:  2.8830249309539795  s
+-----------
+FRAME : 104
+Time to execute:  3.2189908027648926  s
+-----------
+FRAME : 105
+Time to execute:  2.9765706062316895  s
+-----------
+FRAME : 106
+Time to execute:  2.9652187824249268  s
+-----------
+FRAME : 107
+Time to execute:  3.371103048324585  s
+-----------
+FRAME : 108
+Time to execute:  2.999258279800415  s
+-----------
+FRAME : 109
+Time to execute:  3.588690996170044  s
+-----------
+FRAME : 110
+Time to execute:  2.9036569595336914  s
+-----------
+FRAME : 111
+Time to execute:  3.262925148010254  s
+-----------
+FRAME : 112
+Time to execute:  3.345767021179199  s
+-----------
+FRAME : 113
+Time to execute:  3.0919570922851562  s
+-----------
+FRAME : 114
+Time to execute:  3.0698678493499756  s
+-----------
+FRAME : 115
+Time to execute:  3.1100597381591797  s
+-----------
+FRAME : 116
+Time to execute:  3.3059475421905518  s
+-----------
+FRAME : 117
+Time to execute:  2.9979982376098633  s
+-----------
+FRAME : 118
+Time to execute:  3.084367513656616  s
+-----------
+FRAME : 119
+Time to execute:  3.0302255153656006  s
+-----------
+FRAME : 120
+Time to execute:  3.344545841217041  s
+-----------
+FRAME : 121
+Time to execute:  3.211122989654541  s
+-----------
+FRAME : 122
+Time to execute:  3.2062268257141113  s
+-----------
+FRAME : 123
+Time to execute:  3.173877239227295  s
+-----------
+FRAME : 124
+Time to execute:  4.16879677772522  s
+-----------
+FRAME : 125
+Time to execute:  3.568202495574951  s
+-----------
+FRAME : 126
+Time to execute:  3.2051029205322266  s
+-----------
+FRAME : 127
+Time to execute:  3.9605700969696045  s
+-----------
+FRAME : 128
+Time to execute:  3.426854133605957  s
+-----------
+FRAME : 129
+Time to execute:  4.852849960327148  s
+-----------
+FRAME : 130
+Time to execute:  4.26917290687561  s
+-----------
+FRAME : 131
+Time to execute:  3.721081495285034  s
+-----------
+FRAME : 132
+Time to execute:  3.3680896759033203  s
+-----------
+FRAME : 133
+Time to execute:  3.8062429428100586  s
+-----------
+FRAME : 134
+Time to execute:  4.0267863273620605  s

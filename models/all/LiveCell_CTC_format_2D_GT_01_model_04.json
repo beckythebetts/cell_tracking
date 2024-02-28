@@ -1,0 +1,26 @@
+{
+  "architecture": [
+    "DU",
+    "conv",
+    "mish",
+    "bn",
+    [
+      64,
+      1024
+    ]
+  ],
+  "batch_size": 4,
+  "batch_size_auto": 2,
+  "label_type": "distance",
+  "loss": "smooth_l1",
+  "num_gpus": 1,
+  "optimizer": "ranger",
+  "run_name": "LiveCell_CTC_format_2D_GT_01_model_04",
+  "pre_trained": false,
+  "data_transforms": "{'train': Compose(\n    <segmentation.training.mytransforms.Flip object at 0x0000019BDCB56100>\n    <segmentation.training.mytransforms.Contrast object at 0x0000019BDCB560A0>\n    <segmentation.training.mytransforms.Scaling object at 0x0000019BDCB56160>\n    <segmentation.training.mytransforms.Rotate object at 0x0000019BDCB561F0>\n    <segmentation.training.mytransforms.Blur object at 0x0000019BDCB56250>\n    <segmentation.training.mytransforms.Noise object at 0x0000019BDCB562B0>\n    <segmentation.training.mytransforms.ToTensor object at 0x0000019BDCB56310>\n), 'val': <segmentation.training.mytransforms.ToTensor object at 0x0000019BDCB563D0>}",
+  "max_epochs": 85,
+  "training_time": 89389.90157175064,
+  "trained_epochs": 85,
+  "training_time_run_2": 8378.215009689331,
+  "trained_epochs_run2": 8
+}

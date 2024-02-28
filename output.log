@@ -1,0 +1,678 @@
+number of GPUs =  1
+Create training sets for ['LiveCell_CTC_format_2D'] ...
+   ... training set LiveCell_CTC_format_2D_GT_01 already exists ...
+--------------------
+Train LiveCell_CTC_format_2D_GT_01_model_04 on 5043 images, validate on 1261 images
+Ranger optimizer loaded. 
+Gradient Centralization usage = True
+GC applied to both conv and fc layers
+----------
+Epoch 1/85
+----------
+Training loss: 0.05494
+Validation loss: 0.03929
+Validation loss improved from 10000.00000 to 0.03929. Save model.
+Epoch training time: 1239.3s
+----------
+Epoch 2/85
+----------
+Training loss: 0.04104
+Validation loss: 0.03263
+Validation loss improved from 0.03929 to 0.03263. Save model.
+Epoch training time: 1053.1s
+----------
+Epoch 3/85
+----------
+Training loss: 0.03605
+Validation loss: 0.03030
+Validation loss improved from 0.03263 to 0.03030. Save model.
+Epoch training time: 1049.1s
+----------
+Epoch 4/85
+----------
+Training loss: 0.03368
+Validation loss: 0.02878
+Validation loss improved from 0.03030 to 0.02878. Save model.
+Epoch training time: 1048.0s
+----------
+Epoch 5/85
+----------
+Training loss: 0.03198
+Validation loss: 0.02771
+Validation loss improved from 0.02878 to 0.02771. Save model.
+Epoch training time: 1046.5s
+----------
+Epoch 6/85
+----------
+Training loss: 0.03053
+Validation loss: 0.02756
+Validation loss improved from 0.02771 to 0.02756. Save model.
+Epoch training time: 1048.7s
+----------
+Epoch 7/85
+----------
+Training loss: 0.03015
+Validation loss: 0.02542
+Validation loss improved from 0.02756 to 0.02542. Save model.
+Epoch training time: 1046.8s
+----------
+Epoch 8/85
+----------
+Training loss: 0.02903
+Validation loss: 0.02506
+Validation loss improved from 0.02542 to 0.02506. Save model.
+Epoch training time: 1049.1s
+----------
+Epoch 9/85
+----------
+Training loss: 0.02863
+Validation loss: 0.02488
+Validation loss improved from 0.02506 to 0.02488. Save model.
+Epoch training time: 1048.7s
+----------
+Epoch 10/85
+----------
+Training loss: 0.02832
+Validation loss: 0.02530
+Validation loss did not improve.
+Epoch training time: 1047.4s
+----------
+Epoch 11/85
+----------
+Training loss: 0.02815
+Validation loss: 0.02439
+Validation loss improved from 0.02488 to 0.02439. Save model.
+Epoch training time: 1048.5s
+----------
+Epoch 12/85
+----------
+Training loss: 0.02747
+Validation loss: 0.02403
+Validation loss improved from 0.02439 to 0.02403. Save model.
+Epoch training time: 1047.3s
+----------
+Epoch 13/85
+----------
+Training loss: 0.02744
+Validation loss: 0.02358
+Validation loss improved from 0.02403 to 0.02358. Save model.
+Epoch training time: 1047.6s
+----------
+Epoch 14/85
+----------
+Training loss: 0.02713
+Validation loss: 0.02370
+Validation loss did not improve.
+Epoch training time: 1046.4s
+----------
+Epoch 15/85
+----------
+Training loss: 0.02669
+Validation loss: 0.02334
+Validation loss improved from 0.02358 to 0.02334. Save model.
+Epoch training time: 1047.7s
+----------
+Epoch 16/85
+----------
+Training loss: 0.02701
+Validation loss: 0.02357
+Validation loss did not improve.
+Epoch training time: 1045.8s
+----------
+Epoch 17/85
+----------
+Training loss: 0.02632
+Validation loss: 0.02316
+Validation loss improved from 0.02334 to 0.02316. Save model.
+Epoch training time: 1046.5s
+----------
+Epoch 18/85
+----------
+Training loss: 0.02621
+Validation loss: 0.02317
+Validation loss did not improve.
+Epoch training time: 1046.0s
+----------
+Epoch 19/85
+----------
+Training loss: 0.02605
+Validation loss: 0.02342
+Validation loss did not improve.
+Epoch training time: 1044.9s
+----------
+Epoch 20/85
+----------
+Training loss: 0.02621
+Validation loss: 0.02368
+Validation loss did not improve.
+Epoch training time: 1047.5s
+----------
+Epoch 21/85
+----------
+Training loss: 0.02600
+Validation loss: 0.02503
+Validation loss did not improve.
+Epoch training time: 1045.2s
+----------
+Epoch 22/85
+----------
+Training loss: 0.02559
+Validation loss: 0.02258
+Validation loss improved from 0.02316 to 0.02258. Save model.
+Epoch training time: 1046.4s
+----------
+Epoch 23/85
+----------
+Training loss: 0.02587
+Validation loss: 0.02361
+Validation loss did not improve.
+Epoch training time: 1045.4s
+----------
+Epoch 24/85
+----------
+Training loss: 0.02572
+Validation loss: 0.02309
+Validation loss did not improve.
+Epoch training time: 1047.4s
+----------
+Epoch 25/85
+----------
+Training loss: 0.02568
+Validation loss: 0.02237
+Validation loss improved from 0.02258 to 0.02237. Save model.
+Epoch training time: 1047.8s
+----------
+Epoch 26/85
+----------
+Training loss: 0.02565
+Validation loss: 0.02315
+Validation loss did not improve.
+Epoch training time: 1045.6s
+----------
+Epoch 27/85
+----------
+Training loss: 0.02548
+Validation loss: 0.02237
+Validation loss improved from 0.02237 to 0.02237. Save model.
+Epoch training time: 1047.2s
+----------
+Epoch 28/85
+----------
+Training loss: 0.02518
+Validation loss: 0.02224
+Validation loss improved from 0.02237 to 0.02224. Save model.
+Epoch training time: 1045.7s
+----------
+Epoch 29/85
+----------
+Training loss: 0.02536
+Validation loss: 0.02280
+Validation loss did not improve.
+Epoch training time: 1046.8s
+----------
+Epoch 30/85
+----------
+Training loss: 0.02502
+Validation loss: 0.02249
+Validation loss did not improve.
+Epoch training time: 1045.0s
+----------
+Epoch 31/85
+----------
+Training loss: 0.02534
+Validation loss: 0.02217
+Validation loss improved from 0.02224 to 0.02217. Save model.
+Epoch training time: 1046.3s
+----------
+Epoch 32/85
+----------
+Training loss: 0.02523
+Validation loss: 0.02221
+Validation loss did not improve.
+Epoch training time: 1046.8s
+----------
+Epoch 33/85
+----------
+Training loss: 0.02500
+Validation loss: 0.02243
+Validation loss did not improve.
+Epoch training time: 1043.8s
+----------
+Epoch 34/85
+----------
+Training loss: 0.02485
+Validation loss: 0.02284
+Validation loss did not improve.
+Epoch training time: 1047.0s
+----------
+Epoch 35/85
+----------
+Training loss: 0.02508
+Validation loss: 0.02249
+Validation loss did not improve.
+Epoch training time: 1044.4s
+----------
+Epoch 36/85
+----------
+Training loss: 0.02493
+Validation loss: 0.02287
+Validation loss did not improve.
+Epoch training time: 1047.4s
+----------
+Epoch 37/85
+----------
+Training loss: 0.02487
+Validation loss: 0.02256
+Validation loss did not improve.
+Epoch training time: 1044.5s
+----------
+Epoch 38/85
+----------
+Training loss: 0.02486
+Validation loss: 0.02199
+Validation loss improved from 0.02217 to 0.02199. Save model.
+Epoch training time: 1047.5s
+----------
+Epoch 39/85
+----------
+Training loss: 0.02483
+Validation loss: 0.02199
+Validation loss did not improve.
+Epoch training time: 1045.4s
+----------
+Epoch 40/85
+----------
+Training loss: 0.02481
+Validation loss: 0.02270
+Validation loss did not improve.
+Epoch training time: 1046.2s
+----------
+Epoch 41/85
+----------
+Training loss: 0.02466
+Validation loss: 0.02187
+Validation loss improved from 0.02199 to 0.02187. Save model.
+Epoch training time: 1048.5s
+----------
+Epoch 42/85
+----------
+Training loss: 0.02458
+Validation loss: 0.02184
+Validation loss improved from 0.02187 to 0.02184. Save model.
+Epoch training time: 1045.1s
+----------
+Epoch 43/85
+----------
+Training loss: 0.02470
+Validation loss: 0.02209
+Validation loss did not improve.
+Epoch training time: 1046.9s
+----------
+Epoch 44/85
+----------
+Training loss: 0.02462
+Validation loss: 0.02195
+Validation loss did not improve.
+Epoch training time: 1045.2s
+----------
+Epoch 45/85
+----------
+Training loss: 0.02482
+Validation loss: 0.02170
+Validation loss improved from 0.02184 to 0.02170. Save model.
+Epoch training time: 1048.0s
+----------
+Epoch 46/85
+----------
+Training loss: 0.02445
+Validation loss: 0.02305
+Validation loss did not improve.
+Epoch training time: 1045.4s
+----------
+Epoch 47/85
+----------
+Training loss: 0.02481
+Validation loss: 0.02198
+Validation loss did not improve.
+Epoch training time: 1047.0s
+----------
+Epoch 48/85
+----------
+Training loss: 0.02429
+Validation loss: 0.02298
+Validation loss did not improve.
+Epoch training time: 1046.5s
+----------
+Epoch 49/85
+----------
+Training loss: 0.02418
+Validation loss: 0.02166
+Validation loss improved from 0.02170 to 0.02166. Save model.
+Epoch training time: 1045.5s
+----------
+Epoch 50/85
+----------
+Training loss: 0.02458
+Validation loss: 0.02177
+Validation loss did not improve.
+Epoch training time: 1048.2s
+----------
+Epoch 51/85
+----------
+Training loss: 0.02427
+Validation loss: 0.02188
+Validation loss did not improve.
+Epoch training time: 1043.5s
+----------
+Epoch 52/85
+----------
+Training loss: 0.02443
+Validation loss: 0.02214
+Validation loss did not improve.
+Epoch training time: 1047.1s
+----------
+Epoch 53/85
+----------
+Training loss: 0.02438
+Validation loss: 0.02182
+Validation loss did not improve.
+Epoch training time: 1044.6s
+----------
+Epoch 54/85
+----------
+Training loss: 0.02401
+Validation loss: 0.02219
+Validation loss did not improve.
+Epoch training time: 1047.0s
+----------
+Epoch 55/85
+----------
+Training loss: 0.02413
+Validation loss: 0.02209
+Validation loss did not improve.
+Epoch training time: 1048.3s
+----------
+Epoch 56/85
+----------
+Training loss: 0.02414
+Validation loss: 0.02175
+Validation loss did not improve.
+Epoch training time: 1045.6s
+----------
+Epoch 57/85
+----------
+Training loss: 0.02419
+Validation loss: 0.02156
+Validation loss improved from 0.02166 to 0.02156. Save model.
+Epoch training time: 1046.3s
+----------
+Epoch 58/85
+----------
+Training loss: 0.02427
+Validation loss: 0.02165
+Validation loss did not improve.
+Epoch training time: 1046.2s
+----------
+Epoch 59/85
+----------
+Training loss: 0.02431
+Validation loss: 0.02184
+Validation loss did not improve.
+Epoch training time: 1046.8s
+----------
+Epoch 60/85
+----------
+Training loss: 0.02400
+Validation loss: 0.02233
+Validation loss did not improve.
+Epoch training time: 1046.6s
+----------
+Epoch 61/85
+----------
+Training loss: 0.02404
+Validation loss: 0.02202
+Validation loss did not improve.
+Epoch training time: 1048.4s
+----------
+Epoch 62/85
+----------
+Training loss: 0.02416
+Validation loss: 0.02152
+Validation loss improved from 0.02156 to 0.02152. Save model.
+Epoch training time: 1047.9s
+----------
+Epoch 63/85
+----------
+Training loss: 0.02416
+Validation loss: 0.02196
+Validation loss did not improve.
+Epoch training time: 1044.9s
+----------
+Epoch 64/85
+----------
+Training loss: 0.02420
+Validation loss: 0.02149
+Validation loss improved from 0.02152 to 0.02149. Save model.
+Epoch training time: 1048.4s
+----------
+Epoch 65/85
+----------
+Training loss: 0.02393
+Validation loss: 0.02182
+Validation loss did not improve.
+Epoch training time: 1045.5s
+----------
+Epoch 66/85
+----------
+Training loss: 0.02414
+Validation loss: 0.02198
+Validation loss did not improve.
+Epoch training time: 1046.4s
+----------
+Epoch 67/85
+----------
+Training loss: 0.02394
+Validation loss: 0.02143
+Validation loss improved from 0.02149 to 0.02143. Save model.
+Epoch training time: 1045.4s
+----------
+Epoch 68/85
+----------
+Training loss: 0.02373
+Validation loss: 0.02136
+Validation loss improved from 0.02143 to 0.02136. Save model.
+Epoch training time: 1049.1s
+----------
+Epoch 69/85
+----------
+Training loss: 0.02416
+Validation loss: 0.02152
+Validation loss did not improve.
+Epoch training time: 1045.7s
+----------
+Epoch 70/85
+----------
+Training loss: 0.02406
+Validation loss: 0.02148
+Validation loss did not improve.
+Epoch training time: 1048.0s
+----------
+Epoch 71/85
+----------
+Training loss: 0.02398
+Validation loss: 0.02147
+Validation loss did not improve.
+Epoch training time: 1051.1s
+----------
+Epoch 72/85
+----------
+Training loss: 0.02414
+Validation loss: 0.02136
+Validation loss did not improve.
+Epoch training time: 1051.1s
+----------
+Epoch 73/85
+----------
+Training loss: 0.02397
+Validation loss: 0.02147
+Validation loss did not improve.
+Epoch training time: 1052.7s
+----------
+Epoch 74/85
+----------
+Training loss: 0.02407
+Validation loss: 0.02157
+Validation loss did not improve.
+Epoch training time: 1050.7s
+----------
+Epoch 75/85
+----------
+Training loss: 0.02369
+Validation loss: 0.02156
+Validation loss did not improve.
+Epoch training time: 1050.1s
+----------
+Epoch 76/85
+----------
+Training loss: 0.02386
+Validation loss: 0.02159
+Validation loss did not improve.
+Epoch training time: 1131.9s
+----------
+Epoch 77/85
+----------
+Training loss: 0.02390
+Validation loss: 0.02143
+Validation loss did not improve.
+Epoch    77: reducing learning rate of group 0 to 1.5000e-03.
+Epoch training time: 1065.8s
+----------
+Epoch 78/85
+----------
+Training loss: 0.02330
+Validation loss: 0.02146
+Validation loss did not improve.
+Epoch training time: 1045.9s
+----------
+Epoch 79/85
+----------
+Training loss: 0.02301
+Validation loss: 0.02097
+Validation loss improved from 0.02136 to 0.02097. Save model.
+Epoch training time: 1045.2s
+----------
+Epoch 80/85
+----------
+Training loss: 0.02309
+Validation loss: 0.02127
+Validation loss did not improve.
+Epoch training time: 1045.5s
+----------
+Epoch 81/85
+----------
+Training loss: 0.02318
+Validation loss: 0.02105
+Validation loss did not improve.
+Epoch training time: 1044.5s
+----------
+Epoch 82/85
+----------
+Training loss: 0.02316
+Validation loss: 0.02102
+Validation loss did not improve.
+Epoch training time: 1049.7s
+----------
+Epoch 83/85
+----------
+Training loss: 0.02320
+Validation loss: 0.02119
+Validation loss did not improve.
+Epoch training time: 1094.5s
+----------
+Epoch 84/85
+----------
+Training loss: 0.02290
+Validation loss: 0.02129
+Validation loss did not improve.
+Epoch training time: 1099.8s
+----------
+Epoch 85/85
+----------
+Training loss: 0.02306
+Validation loss: 0.02122
+Validation loss did not improve.
+Epoch training time: 1046.7s
+Training complete in 1489min 50s
+--------------------
+--------------------
+Train LiveCell_CTC_format_2D_GT_01_model_04 on 5043 images, validate on 1261 images
+Ranger optimizer loaded. 
+Gradient Centralization usage = True
+GC applied to both conv and fc layers
+Adjusting learning rate of group 0 to 5.4000e-04.
+----------
+Epoch 1/8
+----------
+Training loss: 0.02293
+Validation loss: 0.02118
+Validation loss did not improve.
+Adjusting learning rate of group 0 to 5.2059e-04.
+Epoch training time: 1043.8s
+----------
+Epoch 2/8
+----------
+Training loss: 0.02283
+Validation loss: 0.02107
+Validation loss did not improve.
+Adjusting learning rate of group 0 to 4.6531e-04.
+Epoch training time: 1045.5s
+----------
+Epoch 3/8
+----------
+Training loss: 0.02280
+Validation loss: 0.02099
+Validation loss did not improve.
+Adjusting learning rate of group 0 to 3.8258e-04.
+Epoch training time: 1043.8s
+----------
+Epoch 4/8
+----------
+Training loss: 0.02289
+Validation loss: 0.02111
+Validation loss did not improve.
+Adjusting learning rate of group 0 to 2.8500e-04.
+Epoch training time: 1043.7s
+----------
+Epoch 5/8
+----------
+Training loss: 0.02297
+Validation loss: 0.02113
+Validation loss did not improve.
+Adjusting learning rate of group 0 to 1.8742e-04.
+Epoch training time: 1049.6s
+----------
+Epoch 6/8
+----------
+Training loss: 0.02287
+Validation loss: 0.02160
+Validation loss did not improve.
+Adjusting learning rate of group 0 to 1.0469e-04.
+Epoch training time: 1050.7s
+----------
+Epoch 7/8
+----------
+Training loss: 0.02287
+Validation loss: 0.02131
+Validation loss did not improve.
+Adjusting learning rate of group 0 to 4.9411e-05.
+Epoch training time: 1052.1s
+----------
+Epoch 8/8
+----------
+Training loss: 0.02277
+Validation loss: 0.02104
+Validation loss did not improve.
+Adjusting learning rate of group 0 to 3.0000e-05.
+Epoch training time: 1049.2s
+Training complete in 139min 38s
+--------------------
